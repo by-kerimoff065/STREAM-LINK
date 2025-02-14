@@ -6,6 +6,8 @@ on:
   pull_request:
     branches:
       - main
+  workflow_dispatch: # Manual yeniləmə üçün tetikleme
+        # Heç bir giriş parametri tələb olunmur, lakin lazım gələrsə burada parametrlər də elave edilə bilər
 
 jobs:
   build:
