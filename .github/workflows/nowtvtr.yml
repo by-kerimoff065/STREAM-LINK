@@ -1,4 +1,4 @@
-name: nowtur1 action
+name: nowtvtr action
 
 on:
   schedule:
