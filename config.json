@@ -11,14 +11,14 @@
             "url": "https://www.showturk.com.tr/canli-yayin/showturk"
         },
         {
-            "name": "ABB TV",
-            "slug": "abbtv",
-            "url": "https://www.youtube.com/@ankarabbld/live"
+            "name": "showmax",
+            "slug": "showmax",
+            "url": "https://www.showmax.com.tr/canliyayin"
         },
         {
-            "name": "A Haber",
-            "slug": "ahaber",
-            "url": "https://www.youtube.com/@ahaber/live"
+            "name": "showtv",
+            "slug": "showtv",
+            "url": "https://www.showtv.com.tr/canli-yayin"
         },
         {
             "name": "Alev Alev",
