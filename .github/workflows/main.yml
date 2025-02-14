@@ -27,7 +27,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install yt_dlp streamlink requests
+          pip install -r requirements.txt
 
       # Python skriptini işlə
       - name: Execute Python script
