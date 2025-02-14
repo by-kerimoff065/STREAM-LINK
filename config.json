@@ -46,9 +46,9 @@
             "url": "https://www.eurostartv.com.tr/canli-izle"
         },
         {
-            "name": "startv",
-            "slug": "startv",
-            "url": "https://www.startv.com.tr/canli-yayin"
+            "name": "yaban",
+            "slug": "yaban",
+            "url": "https://www.yabantv.com/broadcast"
         }
     ]
 }
