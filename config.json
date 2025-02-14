@@ -46,9 +46,9 @@
             "url": "https://www.eurostartv.com.tr/canli-izle"
         },
         {
-            "name": "Avlu",
-            "slug": "avlu",
-            "url": "https://www.youtube.com/@avludizi/live"
+            "name": "startv",
+            "slug": "startv",
+            "url": "https://www.startv.com.tr/canli-yayin"
         }
     ]
 }
