@@ -1,7 +1,10 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=2096000
-http://149.255.152.199/arb24.m3u8?bandwidth=2096&e=1739733785&playlistlength=5&shift=0&sid=coder_51&token=ae2b8be4e95eed1ef654797729812398&user=37076
-#EXT-X-STREAM-INF:BANDWIDTH=796000
-http://149.255.152.199/arb24.m3u8?bandwidth=796&e=1739733785&playlistlength=5&shift=0&sid=coder_51&token=ae2b8be4e95eed1ef654797729812398&user=37076
-
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200000,CODECS="",RESOLUTION=1280x720
+https://trkvz-live.ercdn.net/a2tv/a2tv_720p.m3u8?st=B-zwfK6u6VbbwfC3lecSdA&e=1739694221
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=800000,CODECS="",RESOLUTION=854x480
+https://trkvz-live.ercdn.net/a2tv/a2tv_480p.m3u8?st=B-zwfK6u6VbbwfC3lecSdA&e=1739694221
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=400000,CODECS="",RESOLUTION=640x360
+https://trkvz-live.ercdn.net/a2tv/a2tv_360p.m3u8?st=B-zwfK6u6VbbwfC3lecSdA&e=1739694221
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=200000,CODECS="",RESOLUTION=426x240
+https://trkvz-live.ercdn.net/a2tv/a2tv_240p.m3u8?st=B-zwfK6u6VbbwfC3lecSdA&e=1739694221
