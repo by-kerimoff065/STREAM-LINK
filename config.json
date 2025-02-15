@@ -14,6 +14,11 @@
             "name": "showmax",
             "slug": "showmax",
             "url": "https://www.showmax.com.tr/canliyayin"
+         },
+        {
+            "name": "A2 tv",
+            "slug": "A2 tv",
+            "url": "https://www.showmax.com.tr/canliyayin"
         },
         {
             "name": "showtv",
