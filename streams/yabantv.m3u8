@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200000,CODECS="",RESOLUTION=1536x864
+https://trkvz-live.ercdn.net/asporhd/asporhd_720p.m3u8?st=7N0ea3EQMnL21-Tr1f37xA&e=1739696442
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=800000,CODECS="",RESOLUTION=854x480
+https://yayin1.canlitv.fun/canlitv/yabantv.stream/chunklist_w1279648100.m3u8?hash=fd33836cae99b7aa36ad5c02a3dd5c0b
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=400000,CODECS="",RESOLUTION=640x360
+https://yayin1.canlitv.fun/canlitv/yabantv.stream/chunklist_w1279648100.m3u8?hash=fd33836cae99b7aa36ad5c02a3dd5c0b
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=200000,CODECS="",RESOLUTION=426x240
+https://yayin1.canlitv.fun/canlitv/yabantv.stream/chunklist_w1279648100.m3u8?hash=fd33836cae99b7aa36ad5c02a3dd5c0b
