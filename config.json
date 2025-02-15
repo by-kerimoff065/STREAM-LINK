@@ -11,6 +11,11 @@
             "url": "https://www.showturk.com.tr/canli-yayin/showturk"
         },
         {
+            "name": "yabantv",
+            "slug": "yabantv",
+            "url": "https://www.yabantv.com/broadcast"
+         },
+        {
             "name": "showmax",
             "slug": "showmax",
             "url": "https://www.showmax.com.tr/canliyayin"
