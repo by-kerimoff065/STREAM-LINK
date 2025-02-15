@@ -6,10 +6,15 @@
     },
     "channels": [
         {
-            "name": "showturk",
-            "slug": "showturk",
-            "url": "https://www.showturk.com.tr/canli-yayin/showturk"
+            "name": "showtv you",
+            "slug": "showtv you",
+            "url": "https://www.youtube.com/@showtv/live"
         },
+        {
+            "name": "yabantv",
+            "slug": "yabantv",
+            "url": "https://www.yabantv.com/canliyayin"
+         },
         {
             "name": "yabantv",
             "slug": "yabantv",
