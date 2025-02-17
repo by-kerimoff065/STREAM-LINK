@@ -1,3 +1,43 @@
+#EXTINF:0,aztv
+https://raw.githubusercontent.com/by-kerimoff065/myvideoaz/refs/heads/main/myvideo-az/az-tv.m3u8
+#EXTINF:0,medenıyyet
+https://raw.githubusercontent.com/by-kerimoff065/myvideoaz/refs/heads/main/myvideo-az/medeniyet-tv.m3u8
+#EXTINF:0,atv
+https://github.com/by-kerimoff065/myvideoaz/blob/main/myvideo-az/atv-azad.m3u8
+#EXTINF:0,xezer
+https://raw.githubusercontent.com/by-kerimoff065/myvideoaz/refs/heads/main/myvideo-az/xezer-tv.m3u8
+#EXTINF:0,cpace
+https://raw.githubusercontent.com/by-kerimoff065/myvideoaz/refs/heads/main/myvideo-az/space-tv.m3u8
+#EXTINF:0,ıctımaı
+https://raw.githubusercontent.com/by-kerimoff065/myvideoaz/refs/heads/main/myvideo-az/ictimai-tv.m3u8
+#EXTINF:0,arb
+https://raw.githubusercontent.com/by-kerimoff065/myvideoaz/refs/heads/main/myvideo-az/arb.m3u8
+#EXTINF:0,arb gunes
+https://raw.githubusercontent.com/by-kerimoff065/myvideoaz/refs/heads/main/myvideo-az/arb-gunes.m3u8
+#EXTINF:0,arb 24
+https://raw.githubusercontent.com/by-kerimoff065/myvideoaz/refs/heads/main/myvideo-az/arb-24.m3u8
+#EXTINF:0,real
+https://raw.githubusercontent.com/by-kerimoff065/myvideoaz/refs/heads/main/myvideo-az/real-tv.m3u8
+#EXTINF:0,dunya tv
+https://raw.githubusercontent.com/by-kerimoff065/myvideoaz/refs/heads/main/myvideo-az/dunya-tv.m3u8
+#EXTINF:0,kanal s
+https://raw.githubusercontent.com/by-kerimoff065/myvideoaz/refs/heads/main/myvideo-az/kanal-s.m3u8
+#EXTINF:0,sehıyye
+https://raw.githubusercontent.com/by-kerimoff065/myvideoaz/refs/heads/main/myvideo-az/sehiyye-tv.m3u8
+#EXTINF:0,baku tv 
+https://raw.githubusercontent.com/by-kerimoff065/myvideoaz/refs/heads/main/myvideo-az/baku-tv.m3u8
+#EXTINF:0,cbc
+https://raw.githubusercontent.com/by-kerimoff065/myvideoaz/refs/heads/main/myvideo-az/cbc.m3u8
+#EXTINF:0,mcj tv
+https://raw.githubusercontent.com/by-kerimoff065/myvideoaz/refs/heads/main/myvideo-az/mcj-tv-shop.m3u8
+#EXTINF:0,mtv
+https://raw.githubusercontent.com/by-kerimoff065/myvideoaz/refs/heads/main/myvideo-az/mtv-azerbaycan.m3u8
+#EXTINF:0,tmb az
+https://raw.githubusercontent.com/by-kerimoff065/myvideoaz/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
+#EXTINF:0,tmb
+https://raw.githubusercontent.com/by-kerimoff065/myvideoaz/refs/heads/main/myvideo-az/tmb-tv.m3u8
+#EXTINF:0,vıp tv
+https://raw.githubusercontent.com/by-kerimoff065/myvideoaz/refs/heads/main/myvideo-az/vip.m3u8
 
 #EXTINF:-1 tvg-id="1130441933" tvg-name="KANAL D HD (1)" tvg-logo="" group-title="Turkey",KANAL D HD (1)
 https://vavoo.to/play/1130441933/index.m3u8
